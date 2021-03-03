@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kody's Cupcakes are delicious!
 
 You can use the [editor on GitHub](https://github.com/jody575/kodyscupcakes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
